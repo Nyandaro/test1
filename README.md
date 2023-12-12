@@ -1,2 +1,2 @@
 # test2
-wxpython
+wxpythonの練習
