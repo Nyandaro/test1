@@ -1,2 +1,2 @@
 # test2
-wxpythonの練習
+wxpythonをwxFormBuilderを使っての練習
